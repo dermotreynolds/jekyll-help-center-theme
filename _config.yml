@@ -9,7 +9,7 @@
 title: "Azure Handbook"
 email: gusquinalha@gmail.com
 description: "Simple and flexible Jekyll theme for help center."
-baseurl: ""
+baseurl: "https://azurehandbook.azurewebsites.net/"
 url: "https://azurehandbook.azurewebsites.net"
 twitter_username: "gustavoquinalha"
 github_username:  "gustavoquinalha"
